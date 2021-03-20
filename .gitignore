@@ -78,3 +78,11 @@ UnityProject/Library/shadercompiler-UnityShaderCompiler.exe1.log
 UnityProject/Library/shadercompiler-UnityShaderCompiler.exe2.log
 UnityProject/Library/shadercompiler-UnityShaderCompiler.exe3.log
 UnityProject/Library/shadercompiler-UnityShaderCompiler.exe4.log
+*.dll
+UnityProject/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+*.stamp
+*.log
+UnityProject/Library/ShaderCache/EditorEncounteredVariants
+*.dll
+UnityProject/Library/expandedItems
+UnityProject/Library/CurrentLayout-default.dwlt
