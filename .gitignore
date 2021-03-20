@@ -61,3 +61,9 @@ crashlytics-build.properties
 *.json
 *.log
 *.log
+UnityProject/Temp/UnityLockfile
+*.log
+UnityProject/Library/ArtifactDB
+UnityProject/Library/shadercompiler-UnityShaderCompiler.exe0.log
+UnityProject/Library/SourceAssetDB
+*.log
