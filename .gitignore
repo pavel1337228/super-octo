@@ -58,31 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-*.json
-*.log
-*.log
-UnityProject/Temp/UnityLockfile
-*.log
-UnityProject/Library/ArtifactDB
-UnityProject/Library/shadercompiler-UnityShaderCompiler.exe0.log
-UnityProject/Library/SourceAssetDB
-*.log
-*.bin
-*.log
-UnityProject/Library/ShaderCache/EditorEncounteredVariants
-UnityProject/Library/Artifacts/41/415ce8d5664896caa1c2a67fa3a5ebe7
-UnityProject/Library/ShaderCache/EditorEncounteredVariants
-*.log
-UnityProject/Library/shadercompiler-UnityShaderCompiler.exe0.log
-UnityProject/Library/shadercompiler-UnityShaderCompiler.exe1.log
-UnityProject/Library/shadercompiler-UnityShaderCompiler.exe2.log
-UnityProject/Library/shadercompiler-UnityShaderCompiler.exe3.log
-UnityProject/Library/shadercompiler-UnityShaderCompiler.exe4.log
-*.dll
-UnityProject/Library/ScriptAssemblies/BuiltinAssemblies.stamp
-*.stamp
-*.log
-UnityProject/Library/ShaderCache/EditorEncounteredVariants
-*.dll
-UnityProject/Library/expandedItems
-UnityProject/Library/CurrentLayout-default.dwlt
+/*
+/*/
+
+!.gitignore
+!/Assets/
+!/ProjectSettings/
